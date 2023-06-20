@@ -98,7 +98,7 @@ footer {
 /* For devices with a maximum width of 768px */
 @media (max-width: 768px){
     #title {
-        margin-left: 50px;
+        margin-left: 20px;
     }
 
     #image img {
@@ -107,7 +107,7 @@ footer {
     }
 
     #about h1 {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     #about p {
@@ -132,7 +132,7 @@ footer {
 @media (max-width: 480px){
     
     #title {
-        margin-left: 20px;
+        margin-left: 10px;
     }
 
     #image img {
@@ -141,7 +141,7 @@ footer {
     }
 
     #about h1 {
-        font-size: 30px;
+        font-size: 20px;
     }
 
     #about p {
